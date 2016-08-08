@@ -5,9 +5,9 @@ level 0
 life (0.000000,0.000000)
 diam 256.000000
 aarad -1.000000
-x -434.000000
-y -54.000000
-z 44.000000
+x -398.000000
+y 36.000000
+z -82.000000
 qx 0.000000
 qy 0.000000
 qz 0.000000
@@ -28,7 +28,7 @@ vcam [0]{0,0,0}{0,0,0,1}
 model island
 gravkit (no,off,0m/s)
 randb 0.000000
-subg 8
+subg 18
 resg 0
 drone no
 llint 0

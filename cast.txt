@@ -88,20 +88,20 @@ fire on
 fuel no
 
 class pick
-foid 5d11c7d5-5d84-11e6-8004-08606e863f0c
+foid 44b39273-5d96-11e6-8003-08606e863f0c
 parent 2919aacc-1491-11e5-8005-08606e863f0d
 nick PIC
 level 0
 life (0.000000,0.000000)
 diam 4.000000
 aarad -1.000000
-x -20.588929
-y 37.112952
-z -2.243447
-qx -0.047878
-qy 0.248601
-qz 0.012304
-qw 0.967344
+x 15.647096
+y 4.142164
+z 5.064513
+qx 0.052095
+qy -0.739262
+qz -0.057572
+qw -0.668927
 maxspeed 100.000000m/s
 runspeed 64.000000m/s
 nviews 2
@@ -126,5 +126,5 @@ drone yes
 llint 0.5
 shader on
 tritex V
-handg 10
+handg 9
 
