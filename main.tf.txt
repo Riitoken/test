@@ -1,0 +1,14 @@
+; basic DARC template
+; reset everything
+
+tf reset
+tf sbseed
+tf sbgrain
+tf erase
+
+sk stone
+mkast
+
+tf ming 0
+
+endscript
