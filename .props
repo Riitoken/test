@@ -1,14 +1,14 @@
 class sandbox
 type darc
 initialized yes
-timein 1470681787
-timeout 1470681844
+timein 1470684614
+timeout 1470685327
 level 1
 taglist (ambient)
 ambient (off,0,0)
 skybox (yes,always)
 fog (no,256,(0,0,0,1))
-tod (yes,86400s,0.833329)
+tod (yes,86400s,0.833327)
 daysync on
 seed 0
 tfscript main
