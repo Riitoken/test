@@ -95,13 +95,13 @@ level 0
 life (0.000000,0.000000)
 diam 4.000000
 aarad -1.000000
-x 31.172602
-y 5.887014
-z -26.910721
-qx -0.054746
-qy 0.174720
-qz 0.009730
-qw 0.983047
+x -20.588929
+y 37.112952
+z -2.243447
+qx -0.047878
+qy 0.248601
+qz 0.012304
+qw 0.967344
 maxspeed 100.000000m/s
 runspeed 64.000000m/s
 nviews 2
@@ -126,5 +126,5 @@ drone yes
 llint 0.5
 shader on
 tritex V
-handg 9
+handg 10
 
